@@ -12,17 +12,13 @@ import * as MicrosoftGraph from "@microsoft/microsoft-graph-types";
 export class AppComponent implements OnInit{
 
   loggedIn = false;
-  profile?: MicrosoftGraph.User;
-  users?: MicrosoftGraph.User[];
-  userNameFilter= '';
-  isFriend= false;
 
   constructor(private authService: MsalService, private client: HttpClient){}
   ngOnInit(){
      this.checkAccount();
   }
 
-  private checkAccount(){
+  checkAccount(){
     this.loggedIn = this.authService.instance.getAllAccounts().length > 0;
   }
 
@@ -33,6 +29,7 @@ export class AppComponent implements OnInit{
         this.checkAccount();
       });
   }
+  /*
   logout(){
     this.authService.logout();
   }
@@ -53,7 +50,5 @@ export class AppComponent implements OnInit{
       .get<any>(url)
       .subscribe((users) => (this.users = users.value));
   }
-  addFriend(){
-
-  }
+*/
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\AadFriendsPicker\\AadFriendsPicker.csproj": {}
+    "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\aad-friends-picker-BastianHaider\\AadFriendsPickerAPI\\AadFriendsPicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\AadFriendsPicker\\AadFriendsPicker.csproj": {
+    "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\aad-friends-picker-BastianHaider\\AadFriendsPickerAPI\\AadFriendsPicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\AadFriendsPicker\\AadFriendsPicker.csproj",
+        "projectUniqueName": "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\aad-friends-picker-BastianHaider\\AadFriendsPickerAPI\\AadFriendsPicker.csproj",
         "projectName": "AadFriendsPicker",
-        "projectPath": "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\AadFriendsPicker\\AadFriendsPicker.csproj",
+        "projectPath": "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\aad-friends-picker-BastianHaider\\AadFriendsPickerAPI\\AadFriendsPicker.csproj",
         "packagesPath": "C:\\Users\\basti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\AadFriendsPicker\\obj\\",
+        "outputPath": "C:\\Users\\basti\\Desktop\\HTL-Leonding\\C#\\aad-friends-picker-BastianHaider\\AadFriendsPickerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -47,6 +47,28 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.Identity.Web": {
               "target": "Package",
               "version": "[1.8.0, )"

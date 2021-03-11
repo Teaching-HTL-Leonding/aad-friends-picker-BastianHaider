@@ -41,3 +41,13 @@ C:\Users\basti\Desktop\HTL-Leonding\C#\AadFriendsPicker\obj\Debug\net5.0\AadFrie
 C:\Users\basti\Desktop\HTL-Leonding\C#\AadFriendsPicker\obj\Debug\net5.0\ref\AadFriendsPicker.dll
 C:\Users\basti\Desktop\HTL-Leonding\C#\AadFriendsPicker\obj\Debug\net5.0\AadFriendsPicker.pdb
 C:\Users\basti\Desktop\HTL-Leonding\C#\AadFriendsPicker\obj\Debug\net5.0\AadFriendsPicker.genruntimeconfig.cache
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.csprojAssemblyReference.cache
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.AssemblyInfo.cs
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.dll
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\ref\AadFriendsPicker.dll
+C:\Users\basti\Desktop\HTL-Leonding\C#\aad-friends-picker-BastianHaider\AadFriendsPickerAPI\obj\Debug\net5.0\AadFriendsPicker.pdb
